@@ -1,0 +1,13 @@
+F:\Projects\VS\Ukrainian-English Dictionary\bin\Debug\Ukrainian-English Dictionary.exe.config
+F:\Projects\VS\Ukrainian-English Dictionary\bin\Debug\Ukrainian-English Dictionary.exe
+F:\Projects\VS\Ukrainian-English Dictionary\bin\Debug\Ukrainian-English Dictionary.pdb
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian-English Dictionary.csproj.AssemblyReference.cache
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian-English Dictionary.csproj.SuggestedBindingRedirects.cache
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian_English_Dictionary.Properties.Resources.resources
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian-English Dictionary.csproj.GenerateResource.cache
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian-English Dictionary.csproj.CoreCompileInputs.cache
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian-English Dictionary.exe
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian-English Dictionary.pdb
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian_English_Dictionary.Dictionary.resources
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian_English_Dictionary.Config.resources
+F:\Projects\VS\Ukrainian-English Dictionary\obj\Debug\Ukrainian_English_Dictionary.Edit.resources
